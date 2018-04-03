@@ -1,0 +1,81 @@
+Enter board size: O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O B W O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 1(Black) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 1
+O O O O O O O O 
+O O O O O O O O 
+O O O O B O O O 
+O O O B B O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 2(White) Enter Board Position (enter: 99 99 if board is full): Invalid Move.
+O O O O O O O O 
+O O O O O O O O 
+O O O O B O O O 
+O O O B B O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 1(Black) Enter Board Position (enter: 99 99 if board is full): Invalid Move.
+O O O O O O O O 
+O O O O O O O O 
+O O O O B O O O 
+O O O B B O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 2(White) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 1
+O O O O O O O O 
+O O O O O O O O 
+O O O O B W O O 
+O O O B W O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 1(Black) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 1
+O O O O O O O O 
+O O O O O O O O 
+O O O O B B B O 
+O O O B W O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 2(White) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 1
+O O O O O O O O 
+O O O O W O O O 
+O O O O W B B O 
+O O O B W O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 1(Black) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 3
+O O O O B O O O 
+O O O O B O O O 
+O O O O B B B O 
+O O O B B O O O 
+O O O W B O O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 2(White) Enter Board Position (enter: 99 99 if board is full): Number of chips flipped: 1
+O O O O B O O O 
+O O O O B O O O 
+O O O O B B B O 
+O O O B B O O O 
+O O O W W W O O 
+O O O O O O O O 
+O O O O O O O O 
+O O O O O O O O 
+Player 1(Black) Enter Board Position (enter: 99 99 if board is full): Invalid Input.
